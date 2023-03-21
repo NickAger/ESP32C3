@@ -23,6 +23,7 @@ Then compile an example:
 
 ```
 cd example/get-started/hello_world
+idf.py set-target esp32c3
 idf.py build
 idf.py -p /dev/tty.usbmodem14201 flash
 idf.py monitor

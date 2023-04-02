@@ -8,6 +8,8 @@ notes on using ESP32C3
 * Rust Bluetooth https://github.com/persello/bluedroid
 * Another Rust Bluetooth support https://github.com/pyaillet/esp-idf-ble
 * https://github.com/rtic-rs/rtic - Real-Time Interrupt-driven Concurrency (RTIC) framework for ARM Cortex-M microcontrollers
+* https://embassy.dev - The next-generation framework for embedded applications (works with EPS32 as well as RP Pico)
+* Comparison of Embassy and RTIC  - https://cohost.org/jamesmunns/post/67555-should-i-use-embassy
 * https://github.com/esp-rs/esp-wifi
 
 ## C API

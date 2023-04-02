@@ -6,6 +6,7 @@ notes on using ESP32C3
 * Training: https://esp-rs.github.io/espressif-trainings/
 * Training github repository https://github.com/esp-rs/espressif-trainings
 * Rust Bluetooth https://github.com/persello/bluedroid
+* Another Rust Bluetooth support https://github.com/pyaillet/esp-idf-ble
 
 ## C API
 

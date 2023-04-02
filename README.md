@@ -7,6 +7,8 @@ notes on using ESP32C3
 * Training github repository https://github.com/esp-rs/espressif-trainings
 * Rust Bluetooth https://github.com/persello/bluedroid
 * Another Rust Bluetooth support https://github.com/pyaillet/esp-idf-ble
+* https://github.com/rtic-rs/rtic - Real-Time Interrupt-driven Concurrency (RTIC) framework for ARM Cortex-M microcontrollers
+* https://github.com/esp-rs/esp-wifi
 
 ## C API
 

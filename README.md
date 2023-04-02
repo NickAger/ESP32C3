@@ -1,6 +1,10 @@
 # ESP32C3
 notes on using ESP32C3
 
+## Rust API
+
+* Training: https://esp-rs.github.io/espressif-trainings/
+
 ## C API
 
 ensure that python is configured so that `python` runs `python3`:
